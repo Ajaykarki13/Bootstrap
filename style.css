@@ -35,8 +35,9 @@ body {
     border: 2px solid var(--text-dark-gray);
 }
 
-.header-wrapper {
-    background-color: var(--bg-white);
+.header_wrapper .navbar {
+    background-color: var(--bg-features-4);
+    margin:0px 10px 0px 0px ;
 }
 
 .header_wrapper .menu-navbar-nav {
